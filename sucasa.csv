@@ -1,0 +1,364 @@
+imovel_id,preco,tipo,bairro,dorms,suites,vagas
+CA0083," R$ 198.000 , R$ 1.800 ",Casa,Fragata,2,0,1
+AP0277, R$ 82.000 ,Apartamento,Fragata,2,0,
+AP0123," R$ 235.000 , R$ 830 ",Apartamento,Fragata,2,0,1
+AP0015, R$ 159.000 ,Apartamento,Três Vendas,3,0,1
+AP0328, R$ 110.000 ,Apartamento,Areal,2,0,1
+AP0153, R$ 200.000 ,Apartamento,Centro,2,0,
+CA0330, R$ 120.000 ,Casa,Três Vendas,2,1,1
+CA0329, R$ 280.000 ,Casa,Centro,2,0,
+CA0327, R$ 950.000 ,Casa,Centro,4,0,2
+CA0325, R$ 280.000 ,Casa,Centro,8,0,
+AP0254, R$ 145.000 ,Apartamento,Centro,1,0,
+CA0328, R$ 382.000 ,Casa,Três Vendas,3,0,1
+CA0204, R$ 330.000 ,Casa,Três Vendas,3,0,2
+AP0282, R$ 127.200 ,Apartamento,Areal,2,0,1
+AP0280, R$ 275.600 ,Apartamento,Centro,2,0,1
+AP0094, R$ 215.000 ,Apartamento,Centro,1,0,
+AP0114, R$ 420.000 ,Apartamento,Três Vendas,3,1,1
+AP0071, R$ 276.000 ,Apartamento,Centro,2,0,
+AP0275, R$ 640.000 ,Apartamento,Centro,3,1,2
+AP0256, R$ 330.000 ,Apartamento,Centro,2,0,
+AP0271, R$ 230.000 ,Apartamento,Centro,2,0,1
+CA0191, R$ 275.000 ,Casa,Laranjal,2,0,1
+TE0024, R$ 320.000 ,Terreno,Areal,0,0,
+AP0262, R$ 490.000 ,Apartamento,Centro,2,0,
+CA0151, R$ 243.800 ,Casa,Fragata,2,0,2
+AP0221, R$ 550.000 ,Apartamento,Centro,3,1,
+CA0149, R$ 296.800 ,Casa,Fragata,2,2,
+AP0220, R$ 270.000 ,Apartamento,Centro,2,0,
+CA0147, R$ 950.000 ,Casa,Laranjal,3,1,1
+SO0004," R$ 1.500.000 , R$ 11.500 ",Sobrado,Centro,3,3,2
+AP0183, valor sob consulta ,Apartamento,Umuarama,2,0,1
+AP0109, R$ 250.000 ,Apartamento,Centro,2,0,1
+CA0011, R$ 450.000 ,Casa,Laranjal,2,0,2
+CA0136, R$ 180.000 ,Casa,Laranjal,2,1,
+CA0135, R$ 110.000 ,Casa,Laranjal,1,0,
+CA0134, R$ 180.000 ,Casa,Fragata,2,0,
+CA0168, R$ 265.000 ,Casa,Fragata,1,0,
+CA0166, R$ 160.000 ,Casa,Laranjal,2,0,
+AP0231, R$ 120.000 ,Apartamento,Centro,1,0,
+CA0162, R$ 1.200.000 ,Casa,Fragata,1,0,5
+CA0161, R$ 222.600 ,Casa,Areal,2,1,
+AP0223, R$ 265.000 ,Apartamento,Centro,2,0,
+AP0222, R$ 350.000 ,Apartamento,Areal,3,1,
+SO0003, R$ 320.000 ,Sobrado,Areal,3,0,1
+AP0020, R$ 130.000 ,Apartamento,Três Vendas,2,0,1
+AP0054," R$ 230.000 , R$ 1.200 ",Apartamento,Centro,2,0,
+AP0120, R$ 285.000 ,Apartamento,Três Vendas,3,0,1
+AP0187, R$ 145.000 ,Apartamento,Areal,3,0,
+AP0263, R$ 445.000 ,Apartamento,Laranjal,2,1,1
+AP0178," R$ 130.000 , R$ 750 ",Apartamento,Areal,2,0,1
+AP0265, R$ 201.400 ,Apartamento,Fragata,2,0,1
+CA0187, R$ 170.000 ,Casa,Laranjal,2,0,1
+CA0186, R$ 380.000 ,Casa,Areal,2,0,1
+CA0171, R$ 380.000 ,Casa,Areal,3,0,1
+AP0261, R$ 320.000 ,Apartamento,Centro,3,0,
+AP0260, R$ 280.000 ,Apartamento,Centro,2,0,
+TE0022, R$ 470.000 ,Terreno,Areal,0,0,
+TE0021, R$ 290.000 ,Terreno,Areal,0,0,
+CA0159," R$ 508.800 , R$ 3.000 ",Casa,Centro,3,0,
+AP0257, R$ 215.000 ,Apartamento,Centro,3,0,
+CA0248, R$ 1.000.000 ,Casa,Areal,4,1,2
+CA0235, R$ 850.000 ,Casa,Centro,3,1,2
+AP0305, R$ 170.000 ,Apartamento,Centro,2,0,
+AP0336, R$ 212.000 ,Apartamento,Centro,1,0,
+TE0030, R$ 80.000 ,Terreno,Recanto de Portugal,0,0,
+CA0243, R$ 275.600 ,Casa,Areal,1,0,3
+AP0292, R$ 165.000 ,Apartamento,Centro,1,0,
+AP0297, R$ 224.900 ,Apartamento,Areal,2,0,1
+AP0300, R$ 230.000 ,Apartamento,Centro,2,0,
+AP0025," R$ 120.000 , R$ 550 ",Apartamento,Areal,2,0,1
+CA0213, R$ 235.000 ,Casa,Areal,3,0,1
+AP0301, R$ 500.000 ,Apartamento,Centro,3,1,1
+TE0025, R$ 750.000 ,Terreno,Três Vendas,0,0,
+AP0209, R$ 173.000 ,Apartamento,Centro,1,0,
+CA0239, R$ 310.000 ,Casa,São Gonçalo,3,1,1
+CA0222, R$ 450.000 ,Casa,Centro,2,0,4
+CA0221, R$ 300.000 ,Casa,Areal,3,1,1
+CA0217, R$ 190.000 ,Casa,Três Vendas,2,0,5
+CA0216, R$ 640.000 ,Casa,Areal,4,1,9
+AP0296, R$ 145.900 ,Apartamento,Areal,1,0,1
+AP0324, R$ 220.000 ,Apartamento,Fragata,3,0,1
+AP0322, R$ 250.000 ,Apartamento,Areal,3,1,1
+CA0220, R$ 260.000 ,Casa,Recanto de Portugal,2,1,3
+AP0343, R$ 490.000 ,Apartamento,Centro,3,1,1
+TE0020, R$ 370.000 ,Terreno,Areal,0,0,
+TE0019, R$ 260.000 ,Terreno,Areal,0,0,
+CA0183, R$ 583.000 ,Casa,Centro,3,0,1
+CA0091, R$ 260.000 ,Casa,Areal,3,0,2
+CA0154, R$ 318.000 ,Casa,Fragata,3,0,1
+CA0090, R$ 200.000 ,Casa,Fragata,3,0,2
+CA0176, R$ 300.000 ,Casa,Areal,3,1,1
+CA0175, R$ 1.000.000 ,Casa,Fragata,5,0,4
+CA0160, R$ 700.000 ,Casa,Fragata,2,0,1
+CA0173, R$ 1.100.000 ,Casa,Areal,3,1,4
+TE0014, R$ 169.000 ,Terreno,Recanto de Portugal,0,0,
+AP0234, R$ 200.000 ,Apartamento,Fragata,2,0,
+CA0207, R$ 175.000 ,Casa,Fragata,2,0,1
+AP0330, R$ 159.000 ,Apartamento,Areal,2,0,1
+CA0163, R$ 296.800 ,Casa,Fragata,2,0,1
+CA0218, R$ 650.000 ,Casa,Areal,2,0,1
+CA0226, R$ 600.000 ,Casa,Centro,4,1,1
+CA0237, R$ 350.000 ,Casa,Fragata,5,1,5
+AP0288, R$ 350.000 ,Apartamento,Centro,2,0,1
+CA0211, R$ 1.200.000 ,Casa,Três Vendas,4,0,
+CA0014, R$ 212.000 ,Casa,Três Vendas,3,0,1
+CA0050, R$ 200.000 ,Casa,Três Vendas,2,2,1
+AP0285, R$ 350.000 ,Apartamento,Três Vendas,2,0,1
+CA0206, R$ 426.000 ,Casa,Centro,3,0,1
+AP0340," R$ 640.000 , R$ 2.600 ",Apartamento,Centro,3,1,1
+AP0352, R$ 520.000 ,Apartamento,Três Vendas,3,0,1
+AP0350," R$ 132.500 , valor sob consulta ",Apartamento,Centro,2,0,1
+AP0333, R$ 700.000 ,Apartamento,Centro,3,1,1
+AP0349, R$ 165.000 ,Apartamento,Areal,2,0,1
+AP0344, R$ 250.000 ,Apartamento,Três Vendas,1,1,1
+AP0294, R$ 350.000 ,Apartamento,Centro,3,1,1
+AP0329, R$ 405.000 ,Apartamento,Centro,2,0,1
+AP0302, R$ 147.000 ,Apartamento,Centro,2,0,
+CA0234, R$ 220.000 ,Casa,Areal,2,0,2
+AP0306, R$ 170.000 ,Apartamento,Centro,2,0,1
+AP0293, R$ 165.000 ,Apartamento,Centro,1,0,
+CA0223, R$ 530.000 ,Casa,Três Vendas,2,1,4
+AP0338, R$ 110.000 ,Apartamento,Centro,1,0,
+CA0252, R$ 215.000 ,Casa,Fragata,2,0,
+SA0007, R$ 200.000 ,Sala,Centro,0,0,
+AP0193, R$ 245.000 ,Apartamento,Areal,2,0,1
+AP0290, R$ 154.000 ,Apartamento,Fragata,2,0,1
+CA0233, R$ 250.000 ,Casa,Três Vendas,2,1,
+TE0027, R$ 500.000 ,Terreno,Fragata,0,0,
+AP0307, R$ 117.000 ,Apartamento,Centro,1,0,
+CA0251, R$ 460.000 ,Casa,Centro,3,1,
+AP0337, R$ 430.000 ,Apartamento,Centro,3,0,1
+CA0250, R$ 280.000 ,Casa,Três Vendas,3,0,
+CA0059, R$ 742.000 ,Casa,Três Vendas,4,1,2
+AP0130, R$ 850.000 ,Apartamento,Centro,4,2,2
+CA0224, R$ 850.000 ,Casa,Centro,4,1,1
+CA0113, R$ 980.000 ,Casa,Três Vendas,3,3,4
+TE0037, R$ 55.000 ,Terreno,Três Vendas,0,0,
+AP0368, R$ 430.000 ,Apartamento,Centro,3,0,1
+CA0277, R$ 234.000 ,Casa,Laranjal,2,0,1
+CA0276, R$ 160.000 ,Casa,Laranjal,2,0,
+AP0366, R$ 580.000 ,Apartamento,Centro,3,1,1
+KN0029, R$ 573 ,Kitnet,Centro,1,0,
+TE0017, R$ 170.000 ,Terreno,Recanto de Portugal,0,0,
+AP0364, R$ 330.000 ,Apartamento,Centro,3,3,1
+CA0272, R$ 212.000 ,Casa,Fragata,2,0,1
+CA0271, R$ 680.000 ,Casa,Areal,3,0,
+CA0270, R$ 265.000 ,Casa,Centro,5,0,5
+CA0269, R$ 276.000 ,Casa,Laranjal,2,0,
+CA0268, R$ 170.000 ,Casa,Laranjal,2,0,2
+TE0035, R$ 180.000 ,Terreno,Laranjal,0,0,
+TE0034, R$ 230.000 ,Terreno,Laranjal,0,0,
+TE0033, R$ 330.000 ,Terreno,Areal,0,0,
+CA0267, R$ 545.000 ,Casa,Três Vendas,3,1,
+TE0032, R$ 96.000 ,Terreno,Três Vendas,0,0,
+CA0075, R$ 250.000 ,Casa,Areal,3,1,1
+TE0007, R$ 185.000 ,Terreno,Recanto de Portugal,0,0,
+CA0283, R$ 276.000 ,Casa,Três Vendas,2,0,1
+CA0282, R$ 250.000 ,Casa,Fragata,3,1,1
+TE0039, R$ 85.000 ,Terreno,Laranjal,0,0,
+TE0038, R$ 110.000 ,Terreno,Laranjal,0,0,
+CA0281, R$ 270.300 ,Casa,Laranjal,2,0,1
+AP0373, R$ 330.000 ,Apartamento,Centro,3,0,1
+CA0280, R$ 140.000 ,Casa,Areal,2,0,1
+AP0371, R$ 466.650 ,Apartamento,Areal,3,1,2
+AP0326, R$ 155.000 ,Apartamento,Areal,2,0,1
+AP0289, R$ 155.000 ,Apartamento,Fragata,2,0,1
+AP0339, R$ 155.000 ,Apartamento,Centro,1,0,
+TE0018, R$ 60.000 ,Terreno,Três Vendas,0,0,
+TE0026, R$ 76.000 ,Terreno,Três Vendas,0,0,
+TE0010, R$ 90.000 ,Terreno,Fragata,0,0,
+TE0011, R$ 88.000 ,Terreno,Recanto de Portugal,0,0,
+TE0023, R$ 106.000 ,Terreno,Três Vendas,0,0,
+AP0323, R$ 95.400 ,Apartamento,Centro,1,0,
+TE0012, R$ 75.000 ,Terreno,Centro,0,0,
+CA0129, R$ 106.000 ,Casa,Três Vendas,3,0,
+AP0308, R$ 127.200 ,Apartamento,Areal,2,0,1
+CA0219, R$ 135.000 ,Casa,Areal,2,0,1
+AP0255, R$ 130.000 ,Apartamento,Centro,2,0,
+AP0334, R$ 138.000 ,Apartamento,Fragata,2,0,
+CA0208, R$ 138.000 ,Casa,Fragata,2,0,1
+CA0153, R$ 140.000 ,Casa,Areal,2,0,
+AP0127, R$ 140.000 ,Apartamento,Fragata,2,0,1
+AP0230, R$ 140.000 ,Apartamento,Centro,2,0,
+TE0016, R$ 245.000 ,Terreno,Recanto de Portugal,0,0,
+TE0031, R$ 110.000 ,Terreno,Laranjal,0,0,
+AP0272, R$ 145.000 ,Apartamento,Areal,2,0,1
+CA0117, R$ 140.000 ,Casa,Fragata,2,1,
+AP0185, R$ 115.000 ,Apartamento,Areal,2,0,1
+AP0287, R$ 658.000 ,Apartamento,Três Vendas,3,1,2
+AP0117, R$ 750.000 ,Apartamento,Zona Norte,3,1,2
+TE0029, R$ 750.000 ,Terreno,Centro,0,0,
+AP0348, R$ 800.000 ,Apartamento,Centro,3,1,1
+CA0285, R$ 280.000 ,Casa,Areal,2,0,1
+AP0378," R$ 198.000 , R$ 790 ",Apartamento,Três Vendas,2,0,1
+AP0196, R$ 290.000 ,Apartamento,Centro,2,0,1
+AP0219, R$ 290.000 ,Apartamento,Centro,3,0,
+CA0265, R$ 160.000 ,Casa,Porto,4,0,
+AP0281, R$ 333.000 ,Apartamento,Centro,3,0,1
+CA0253, R$ 180.200 ,Casa,Fragata,2,0,
+CA0278, R$ 159.000 ,Casa,Laranjal,2,0,1
+AP0377, R$ 129.900 ,Apartamento,Areal,2,0,1
+AP0376, R$ 300.000 ,Apartamento,Centro,3,0,1
+TE0040, R$ 140.000 ,Terreno,Recanto de Portugal,0,0,
+AP0374, R$ 150.000 ,Apartamento,Fragata,2,0,1
+CA0009, R$ 315.000 ,Casa,Fragata,2,0,6
+AP0013, R$ 220.000 ,Apartamento,Centro,2,0,
+CA0007, R$ 1.166.000 ,Casa,Areal,3,1,3
+AP0042, R$ 1.000.000 ,Apartamento,Três Vendas,2,1,1
+AP0043, R$ 200.000 ,Apartamento,Centro,2,0,
+AP0044, R$ 160.000 ,Apartamento,Três Vendas,2,0,1
+AP0045, R$ 265.000 ,Apartamento,Centro,2,0,1
+CA0032, R$ 180.000 ,Casa,Três Vendas,2,0,2
+CA0031, R$ 265.000 ,Casa,Centro,2,0,1
+AP0047, R$ 165.000 ,Apartamento,Areal,2,0,1
+AP0041, R$ 270.000 ,Apartamento,Centro,2,0,
+CA0015, R$ 850.000 ,Casa,Fragata,3,1,2
+CA0013, R$ 742.000 ,Casa,Centro,1,0,2
+CA0012, R$ 180.000 ,Casa,Areal,1,0,1
+AP0014, R$ 382.000 ,Apartamento,Centro,3,0,1
+CA0076, R$ 215.000 ,Casa,Três Vendas,3,0,
+AP0091, R$ 155.000 ,Apartamento,Centro,1,0,1
+CA0053, R$ 890.000 ,Casa,Fragata,2,0,2
+CA0049, R$ 208.000 ,Casa,Três Vendas,2,0,1
+AP0061, R$ 190.000 ,Apartamento,Fragata,2,0,1
+CA0047, R$ 185.000 ,Casa,Três Vendas,2,0,1
+CA0045, R$ 226.000 ,Casa,Três Vendas,3,0,1
+AP0059, R$ 250.000 ,Apartamento,Centro,2,0,1
+AP0057, R$ 120.000 ,Apartamento,Areal,2,0,
+SO0002, R$ 318.000 ,Sobrado,Laranjal,2,0,
+AP0053, R$ 254.400 ,Apartamento,Centro,2,0,
+CA0042, R$ 159.000 ,Casa,Três Vendas,2,0,
+CA0095, R$ 285.000 ,Casa,Centro,2,0,1
+CA0070, R$ 550.000 ,Casa,Centro,3,1,5
+TE0001, R$ 85.000 ,Terreno,Laranjal,0,0,
+CA0010, R$ 205.000 ,Casa,Fragata,3,0,1
+AP0012, R$ 245.000 ,Apartamento,Centro,2,0,
+AP0115, R$ 297.000 ,Apartamento,Centro,2,0,1
+AP0113, R$ 190.000 ,Apartamento,Centro,2,0,
+CA0088, R$ 600.000 ,Casa,Areal,4,2,2
+CA0087, R$ 350.000 ,Casa,Centro,2,0,1
+AP0106, R$ 240.000 ,Apartamento,Centro,2,0,1
+CA0080, R$ 370.000 ,Casa,Centro,3,0,1
+CA0078, R$ 280.000 ,Casa,Areal,3,0,2
+TE0009, R$ 400.000 ,Terreno,Areal,0,0,
+CA0104, R$ 339.200 ,Casa,Areal,3,0,1
+AP0139, R$ 250.000 ,Apartamento,Centro,2,0,
+CA0046, R$ 288.000 ,Casa,Três Vendas,2,0,1
+AP0129, R$ 310.000 ,Apartamento,Fragata,3,0,1
+AP0128, R$ 139.000 ,Apartamento,Centro,1,0,
+CA0099, R$ 320.000 ,Casa,Centro,2,0,
+CA0097, R$ 900.000 ,Casa,Centro,4,1,2
+AP0124, R$ 212.000 ,Apartamento,Fragata,2,0,1
+CA0096, R$ 1.590.000 ,Casa,Três Vendas,4,4,4
+AP0101, R$ 255.000 ,Apartamento,Três Vendas,2,0,1
+CA0085, R$ 285.000 ,Casa,Areal,3,0,
+AP0194, R$ 185.000 ,Apartamento,Fragata,2,0,
+CA0114, R$ 330.000 ,Casa,Fragata,2,0,1
+CA0132, R$ 890.000 ,Casa,Laranjal,3,1,
+AP0192, R$ 280.000 ,Apartamento,Centro,2,0,1
+CA0130, R$ 240.000 ,Casa,Laranjal,3,0,
+CA0124, R$ 215.000 ,Casa,Três Vendas,3,0,1
+CA0029, R$ 220.000 ,Casa,Recanto de Portugal,2,0,1
+AP0170, R$ 255.000 ,Apartamento,Centro,2,0,1
+CA0119, R$ 290.000 ,Casa,Fragata,1,0,
+CA0116, R$ 258.000 ,Casa,Três Vendas,4,1,1
+CA0112, R$ 210.000 ,Casa,Fragata,2,0,
+CA0111, R$ 300.000 ,Casa,Três Vendas,2,0,2
+CA0109, R$ 250.000 ,Casa,Fragata,3,0,3
+CA0037, R$ 259.700 ,Casa,Fragata,2,0,3
+AP0151, R$ 270.000 ,Apartamento,Centro,3,0,
+AP0150, R$ 340.000 ,Apartamento,Centro,2,0,1
+SO0006, R$ 285.000 ,Sobrado,Fragata,2,0,4
+SA0004, R$ 125.000 ,Sala,Centro,0,0,
+AP0149, R$ 280.000 ,Apartamento,Centro,2,0,1
+SA0003, R$ 270.000 ,Sala,Centro,0,0,
+AP0148, R$ 210.000 ,Apartamento,Centro,1,0,1
+CA0107, R$ 790.000 ,Casa,Centro,3,0,4
+AP0147, R$ 155.000 ,Apartamento,Areal,2,0,1
+CA0069, R$ 580.000 ,Casa,Areal,3,1,2
+AP0391, R$ 310.000 ,Apartamento,Areal,2,1,1
+CA0300, R$ 460.000 ,Casa,Centro,3,1,
+CA0299, R$ 400.000 ,Casa,Centro,4,0,1
+AP0390, R$ 350.000 ,Apartamento,Areal,3,1,
+CA0298, R$ 255.000 ,Casa,Fragata,2,0,2
+CA0297, R$ 450.000 ,Casa,Três Vendas,6,0,3
+AP0388, R$ 350.000 ,Apartamento,Areal,3,1,
+AP0387, R$ 350.000 ,Apartamento,Centro,2,0,1
+AP0386, R$ 115.000 ,Apartamento,Areal,2,0,
+CA0296, R$ 280.000 ,Casa,Areal,2,0,
+AP0385, R$ 138.000 ,Apartamento,Centro,2,0,
+CA0295, R$ 250.000 ,Casa,Laranjal,2,0,1
+TE0041, R$ 790.000 ,Terreno,Centro,0,0,
+CA0293, R$ 265.000 ,Casa,Areal,2,0,2
+CA0292, R$ 287.000 ,Casa,Laranjal,2,0,2
+AP0354, R$ 165.000 ,Apartamento,Areal,2,0,1
+AP0381, R$ 235.000 ,Apartamento,Centro,3,0,1
+AP0380, R$ 220.000 ,Apartamento,Fragata,2,0,1
+CA0291, R$ 720.000 ,Casa,Três Vendas,3,0,4
+LO0006, R$ 280.000 ,Loja,Centro,0,0,
+CA0289, R$ 212.000 ,Casa,Três Vendas,3,0,3
+CA0288, R$ 350.000 ,Casa,Fragata,3,0,
+CA0287, R$ 175.000 ,Casa,Três Vendas,2,0,1
+CA0286, R$ 178.000 ,Casa,Três Vendas,2,0,1
+CA0305, R$ 420.000 ,Casa,Areal,3,0,5
+CA0303, R$ 149.900 ,Casa,Três Vendas,2,0,1
+AP0392, R$ 226.000 ,Apartamento,Três Vendas,3,0,1
+TE0042, R$ 300.000 ,Terreno,Areal,0,0,
+CA0302," R$ 581.940 , R$ 2.300 ",Casa,Areal,3,1,1
+AP0303, R$ 170.000 ,Apartamento,Fragata,2,0,
+CA0294, R$ 371.000 ,Casa,Centro,2,0,
+AP0351, R$ 160.000 ,Apartamento,Centro,3,0,
+AP0273, R$ 170.000 ,Apartamento,Areal,2,0,1
+KN0023, R$ 175.000 ,Kitnet,Centro,1,0,
+TE0028, R$ 179.000 ,Terreno,Recanto de Portugal,0,0,
+CA0225, R$ 165.000 ,Casa,Três Vendas,1,0,1
+CA0146, R$ 424.000 ,Casa,Centro,3,0,2
+CA0199, R$ 477.000 ,Casa,Centro,2,0,1
+CA0308, R$ 583.000 ,Casa,Recanto de Portugal,3,1,4
+AP0367, R$ 700.000 ,Apartamento,Centro,4,0,2
+TE0044, R$ 640.000 ,Terreno,Centro,0,0,
+TE0043, R$ 640.000 ,Terreno,Centro,0,0,
+AP0389, R$ 185.000 ,Apartamento,Areal,3,0,1
+CA0301, R$ 475.000 ,Casa,Recanto de Portugal,3,0,2
+CA0255," R$ 185.500 , R$ 550 ",Casa,Centro,2,0,
+AP0394," R$ 200.000 , R$ 800 ",Apartamento,Centro,3,0,
+AP0369, R$ 260.000 ,Apartamento,Centro,3,0,1
+CA0306, R$ 260.000 ,Casa,Três Vendas,3,0,3
+AP0419, R$ 170.000 ,Apartamento,Fragata,2,0,1
+CA0320, R$ 320.000 ,Casa,Areal,0,0,
+AP0418, R$ 230.000 ,Apartamento,Centro,3,0,
+CA0319, R$ 158.000 ,Casa,Três Vendas,2,0,1
+CA0318, R$ 250.000 ,Casa,Três Vendas,2,0,1
+AP0414, R$ 530.000 ,Apartamento,Areal,3,1,1
+CA0317, R$ 300.000 ,Casa,Fragata,5,2,2
+CA0316, R$ 570.280 ,Casa,Areal,2,1,3
+CA0315, R$ 499.000 ,Casa,Areal,2,0,4
+AP0412, R$ 128.000 ,Apartamento,Areal,2,0,1
+KN0022," R$ 140.000 , R$ 750 ",Kitnet,Centro,1,0,
+AP0407, R$ 965.000 ,Apartamento,Centro,3,0,2
+AP0379, R$ 127.200 ,Apartamento,Centro,2,0,1
+CA0326, R$ 185.000 ,Casa,Centro,3,0,
+CA0324, R$ 1.500.000 ,Casa,Três Vendas,4,2,7
+AP0398, R$ 400.000 ,Apartamento,Areal,3,1,2
+CA0240, R$ 680.000 ,Casa,Areal,5,1,3
+TE0048, R$ 560.000 ,Terreno,Centro,0,0,
+TE0047, R$ 424.000 ,Terreno,Centro,0,0,
+CA0322, R$ 414.000 ,Casa,Centro,2,0,2
+AP0421, R$ 460.000 ,Apartamento,Centro,2,0,1
+AP0420, R$ 280.000 ,Apartamento,Centro,2,0,
+SA0010, R$ 85.000 ,Sala,Centro,0,0,
+CA0321, R$ 350.000 ,Casa,Centro,3,0,3
+AP0404, R$ 350.000 ,Apartamento,Areal,3,1,1
+CA0313, R$ 460.000 ,Casa,Centro,3,1,
+AP0393," R$ 240.000 , R$ 1.000 ",Apartamento,Centro,2,1,1
+AP0401," R$ 150.000 , R$ 550 ",Apartamento,Areal,2,0,
+AP0403, R$ 300.000 ,Apartamento,Areal,2,0,1
+TE0045, R$ 320.000 ,Terreno,Areal,0,0,
+AP0325, R$ 355.000 ,Apartamento,Centro,3,0,
+CA0052, R$ 380.000 ,Casa,Areal,2,0,1
+CA0249, R$ 390.000 ,Casa,Recanto de Portugal,1,1,1
+CA0309, R$ 319.000 ,Casa,Fragata,2,0,1
+AP0208, R$ 320.000 ,Apartamento,Centro,3,0,1
+AP0342," R$ 265.000 , R$ 1.200 ",Apartamento,Centro,3,0,
